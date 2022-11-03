@@ -1,3 +1,8 @@
+#Terminal mai command daalo ye
+# pip install numpy
+# pip install pandas
+# pip install apyori
+
 import numpy as np
 import pandas as pd
 from apyori import apriori
